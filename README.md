@@ -1,7 +1,7 @@
-OLA, EU SOU O SAMUEL!
-
-Sou um profissional em transição para a área de Quality Assurance (QA), apaixonado por garantir a qualidade de ponta a ponta. Tenho como objetivo unir minha bagagem como desenvolvedor à prática de testes, entregando produtos mais confiáveis, com processos mais eficientes e foco total na experiência do usuário.
-
+💼 Olá, Eu Sou o Samuel !
+<div>
+   Sou um profissional em transição para a área de Quality Assurance (QA), apaixonado por garantir a qualidade de ponta a ponta. Tenho como objetivo unir minha bagagem como       desenvolvedor à prática de testes, entregando produtos mais confiáveis, com processos mais eficientes e foco total na experiência do usuário.
+</div>
 <div>
    
    <p>Sobre Min <p/>
@@ -19,7 +19,7 @@ Sou um profissional em transição para a área de Quality Assurance (QA), apaix
 🤝 Ferramentas e processos: Git, Jira, Docker, Scrum/Kanban
 
 </div>
-
+<div>
 ## 🛠️ Tecnologias e Ferramentas
 
 
@@ -34,7 +34,9 @@ Sou um profissional em transição para a área de Quality Assurance (QA), apaix
 ![Metodologias Ágeis](https://img.shields.io/badge/Metodologias%20%C3%81geis-Scrum%20%7C%20Kanban-blue?style=flat&logo=trello&logoColor=white)
 ![Lógica de Programação](https://img.shields.io/badge/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-Fundamentos-important?style=flat)
 ![Gestão da Qualidade](https://img.shields.io/badge/Gest%C3%A3o%20da%20Qualidade-Boa%20Pr%C3%A1tica-lightgrey?style=flat)
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
 
+</div>
 
 
 
