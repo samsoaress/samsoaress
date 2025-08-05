@@ -19,10 +19,12 @@
 🤝 Ferramentas e processos: Git, Jira, Docker, Scrum/Kanban
 
 </div>
-<div>
+
+   
 ## 🛠️ Tecnologias e Ferramentas
 
-
+<div>
+   
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io/)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
