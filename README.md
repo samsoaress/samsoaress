@@ -3,7 +3,7 @@ OLA, EU SOU O SAMUEL!
 Sou um profissional em transição para a área de Quality Assurance (QA), apaixonado por garantir a qualidade de ponta a ponta. Tenho como objetivo unir minha bagagem como desenvolvedor à prática de testes, entregando produtos mais confiáveis, com processos mais eficientes e foco total na experiência do usuário.
 
 <div>
-   .SOBRE MIM
+   <p>SOBRE MIM <p/>
 .🎯 QA estratégica com atuação sólida em múltiplas frentes de qualidade
 .🧩 Estruturação de processos de testes (exploratórios, regressivos e E2E) com foco em cobertura e rastreabilidade
 .📚 Especialista em documentação e gestão de testes com X-Ray integrado ao Jira
