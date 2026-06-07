@@ -1,7 +1,7 @@
 ## 💼 Olá, Eu Sou o Samuel !
 
 <div>
-   Sou um profissional em transição para a área de Quality Assurance (QA), apaixonado por garantir a qualidade de ponta a ponta. Tenho como objetivo unir minha bagagem como       desenvolvedor à prática de testes, entregando produtos mais confiáveis, com processos mais eficientes e foco total na experiência do usuário.
+  QA Engineer com mais de 2 anos de experiência combinando testes manuais, automação e desenvolvimento front-end. Especializado em Cypress, Postman/Newman e Selenium, com domínio no ciclo completo de QA: levantamento de requisitos, criação de casos de teste, execução, reporte de bugs e acompanhamento de correções. Background sólido em Angular e TypeScript que proporciona visão técnica diferenciada na identificação de defeitos e comunicação com times de desenvolvimento.
 </div>
 
 ## 👨‍💻 Sobre Min 
