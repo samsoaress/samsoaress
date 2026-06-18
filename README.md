@@ -1,7 +1,11 @@
 ## 💼 Olá, Eu Sou o Samuel !
 
 <div>
-  QA Engineer com mais de 2 anos de experiência combinando testes manuais, automação e desenvolvimento front-end. Especializado em Cypress, Postman/Newman e Selenium, com domínio no ciclo completo de QA: levantamento de requisitos, criação de casos de teste, execução, reporte de bugs e acompanhamento de correções. Background sólido em Angular e TypeScript que proporciona visão técnica diferenciada na identificação de defeitos e comunicação com times de desenvolvimento.
+ QA Engineer com experiência em qualidade de software, atuando com testes manuais, automação e desenvolvimento front-end. Tenho conhecimento no ciclo completo de QA, desde a análise de requisitos, criação de cenários e casos de teste, execução de testes funcionais e regressivos, até a identificação, documentação e acompanhamento de correções de bugs.
+
+Possuo experiência com automação utilizando Cypress e Selenium, testes de API com Postman/Newman e conhecimentos em JavaScript, TypeScript e Angular, o que me permite ter uma visão mais técnica na identificação de problemas e na comunicação com equipes de desenvolvimento.
+
+Busco sempre contribuir para entregas mais confiáveis, melhorar processos de qualidade e criar melhores experiências para os usuários. Estou em constante evolução, estudando novas ferramentas e boas práticas de QA para aprimorar minhas habilidades.
 </div>
 
 ## 👨‍💻 Sobre Min 
