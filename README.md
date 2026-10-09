@@ -12,7 +12,7 @@ Busco sempre contribuir para entregas mais confiáveis, melhorar processos de qu
 
 <div>
    
-✅ Testes E2E com Cypress e BDD 
+✅ Testes E2E com Cypress,Playwright e BDD 
 
 🔎 Testes exploratórios e regressivos em aplicações web
 
