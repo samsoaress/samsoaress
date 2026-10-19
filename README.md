@@ -1,32 +1,41 @@
 ## 💼 Olá, Eu Sou o Samuel !
 
 <div>
- QA Engineer com experiência em qualidade de software, atuando com testes manuais, automação e desenvolvimento front-end. Tenho conhecimento no ciclo completo de QA, desde a análise de requisitos, criação de cenários e casos de teste, execução de testes funcionais e regressivos, até a identificação, documentação e acompanhamento de correções de bugs.
+# Samuel Soares Caldeira | QA Engineer
 
-Possuo experiência com automação utilizando Cypress e Selenium, testes de API com Postman/Newman e conhecimentos em JavaScript, TypeScript e Angular, o que me permite ter uma visão mais técnica na identificação de problemas e na comunicação com equipes de desenvolvimento.
+Profissional em desenvolvimento na área de Quality Assurance, com experiência prática em desenvolvimento front-end e estudos aplicados de testes de software.
 
-Busco sempre contribuir para entregas mais confiáveis, melhorar processos de qualidade e criar melhores experiências para os usuários. Estou em constante evolução, estudando novas ferramentas e boas práticas de QA para aprimorar minhas habilidades.
-</div>
+Tenho trabalhado com automação de testes utilizando Cypress, validações funcionais, testes de regressão e cenários de autenticação e cadastro. Também estudo testes de API com Postman, documentação de defeitos e boas práticas de qualidade.
 
-## 👨‍💻 Sobre Min 
+Meu objetivo é contribuir para entregas mais confiáveis por meio de testes bem estruturados, investigação de falhas e melhoria contínua dos processos de qualidade.
 
-<div>
-   
-✅ Testes E2E com Cypress,Playwright e BDD 
+## 🧪 Competências
 
-🔎 Testes exploratórios e regressivos em aplicações web
+- **Automação Web:** Cypress e JavaScript
+- **Testes funcionais:** cenários positivos, negativos e regressivos
+- **API Testing:** Postman e validações de requisições HTTP
+- **Qualidade:** casos de teste, critérios de aceite e documentação de bugs
+- **Desenvolvimento:** HTML, CSS, JavaScript e conhecimentos de front-end
+- **Ferramentas e processos:** Git, GitHub e metodologias ágeis em estudo e prática
 
-🔧 Testes de API com Postman, Swagger e noções de JMeter
+## 🚀 Projetos em destaque
 
-📋 Documentação de casos de teste e planejamento de entregas
+- **Autenticador — Cypress:** testes de login, cadastro e recuperação de senha.
+- **DevFinance — Cypress:** testes de criação e exclusão de transações financeiras.
+- **Cypress PC:** estudos de automação de pesquisa e validação de conteúdo web.
 
-👨‍💻 Experiência com AngularJS, React.js, JavaScript, HTML/CSS
+## 📚 Formação
 
-🤝 Ferramentas e processos: Git, Jira, Docker, Scrum/Kanban
-</div>
+Análise e Desenvolvimento de Sistemas — IESB  
+Estudos contínuos em automação de testes, qualidade de software e boas práticas de QA.
 
-   
-## 🛠️ Tecnologias e Ferramentas
+## 🔗 Contato
+
+- LinkedIn: https://www.linkedin.com/in/samuelscaldeira/
+- GitHub: https://github.com/samsoaress
+
+*Os projetos deste perfil são utilizados para estudos e demonstração de conhecimentos em qualidade de software.*
+
 
 <div>
    
